@@ -1,3 +1,0 @@
-frequest
-pandas
-python-dotenv
